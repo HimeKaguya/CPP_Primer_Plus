@@ -1,0 +1,3 @@
+﻿  randwalk.cpp
+D:\YYL\CPP\cpp_primer_plus\cpp11\randwalk.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  cpp11.vcxproj -> D:\YYL\CPP\cpp_primer_plus\x64\Debug\cpp11.exe
